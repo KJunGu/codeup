@@ -107,11 +107,39 @@
 //     return 00;
 // }
 // -------------------------------code 18--------------------
-#include <stdio.h>
-int main(void)
-{
-    int x,y;
-    scanf("%d:%d",&x,&y);
-    printf("%d:%d",x,y);
-    return 0;
-}
+// #include <stdio.h>
+// int main(void)
+// {
+//     int x,y;
+//     scanf("%d:%d",&x,&y);
+//     printf("%d:%d",x,y);
+//     return 0;
+// }
+// -------------------------------code 19--------------------
+// #include <stdio.h>
+// int main()
+// {
+//     int a,b,c;
+//     scanf("%d.%d.%d",&a,&b,&c);
+//     printf("%04d.%02d.%02d",a,b,c);
+//     return 0;
+// }
+// -------------------------------code 20--------------------
+// #include <stdio.h>
+// int main(void)
+// {
+//     int x,y;
+//     scanf("%d-%d",&x,&y);
+//     printf("%06d%07d",x,y);
+//     return 0;
+// }
+// -------------------------------code 21--------------------
+// #include <stdio.h>
+// int main(void)
+// {
+//     char data[51]="";
+//     scanf("%s",data);
+//     printf("%s",data);
+//     return 0;
+// }
+// -------------------------------code 22--------------------
